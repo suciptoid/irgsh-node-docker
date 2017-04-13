@@ -1,1 +1,1 @@
-# Dockerfile for irgsh-web
+# Dockerfile for irgsh-node
